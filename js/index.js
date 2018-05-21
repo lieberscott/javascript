@@ -27,3 +27,43 @@ $("img", "#educ").hover(function() {
   $('.educstill').toggle();
   $('.educgif').toggle();
 });
+
+$("img", "#dungeon").hover(function() {
+  $('.dungeonstill').toggle();
+  $('.dungeongif').toggle();
+});
+
+$("img", "#cycling").hover(function() {
+  $('.cyclingstill').toggle();
+  $('.cyclinggif').toggle();
+});
+
+$("img", "#greene").hover(function() {
+  $('.greenestill').toggle();
+  $('.greenegif').toggle();
+});
+
+$("img", "#leaderboard").hover(function() {
+  $('.leaderboardstill').toggle();
+  $('.leaderboardgif').toggle();
+});
+
+$("img", "#pomodoro").hover(function() {
+  $('.pomodorostill').toggle();
+  $('.pomodorogif').toggle();
+});
+
+$("img", "#quote").hover(function() {
+  $('.quotestill').toggle();
+  $('.quotegif').toggle();
+});
+
+$("img", "#recipe").hover(function() {
+  $('.recipestill').toggle();
+  $('.recipegif').toggle();
+});
+
+$("img", "#twitch").hover(function() {
+  $('.twitchstill').toggle();
+  $('.twitchgif').toggle();
+});
