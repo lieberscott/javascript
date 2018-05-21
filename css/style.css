@@ -69,9 +69,7 @@ p {
 
 
 /*
-
 Toggle gifs
-
 */
 
 #educ img {
@@ -115,6 +113,63 @@ Toggle gifs
 #simon .simongif {
   display: none;
 }
+
+#dungeon img {
+  cursor: pointer;
+}
+#dungeon .dungeongif {
+  display: none;
+}
+
+#cycling img {
+  cursor: pointer;
+}
+#cycling .cyclinggif {
+  display: none;
+}
+
+#greene img {
+  cursor: pointer;
+}
+#greene .greenegif {
+  display: none;
+}
+
+#leaderboard img {
+  cursor: pointer;
+}
+#leaderboard .leaderboardgif {
+  display: none;
+}
+
+#pomodoro img {
+  cursor: pointer;
+}
+#pomodoro .pomodorogif {
+  display: none;
+}
+
+#quote img {
+  cursor: pointer;
+}
+#quote .quotegif {
+  display: none;
+}
+
+#recipe img {
+  cursor: pointer;
+}
+#recipe .recipegif {
+  display: none;
+}
+
+#twitch img {
+  cursor: pointer;
+}
+#twitch .twitchgif {
+  display: none;
+}
+
 
 
 @media(max-width: 881px) {
