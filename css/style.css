@@ -170,6 +170,36 @@ Toggle gifs
   display: none;
 }
 
+#calc img {
+  cursor: pointer;
+}
+#calc .calcgif {
+  display: none;
+}
+
+#portfolio img {
+  cursor: pointer;
+}
+#portfolio .portfoliogif {
+  display: none;
+}
+
+#weather img {
+  cursor: pointer;
+}
+#weather .weathergif {
+  display: none;
+}
+
+#wikipedia img {
+  cursor: pointer;
+}
+#wikipedia .wikipediagif {
+  display: none;
+}
+
+
+
 
 
 @media(max-width: 881px) {
