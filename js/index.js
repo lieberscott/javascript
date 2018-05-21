@@ -67,3 +67,23 @@ $("img", "#twitch").hover(function() {
   $('.twitchstill').toggle();
   $('.twitchgif').toggle();
 });
+
+$("img", "#calc").hover(function() {
+  $('.calcstill').toggle();
+  $('.calcgif').toggle();
+});
+
+$("img", "#portfolio").hover(function() {
+  $('.portfoliostill').toggle();
+  $('.portfoliogif').toggle();
+});
+
+$("img", "#weather").hover(function() {
+  $('.weatherstill').toggle();
+  $('.weathergif').toggle();
+});
+
+$("img", "#wikipedia").hover(function() {
+  $('.wikipediastill').toggle();
+  $('.wikipediagif').toggle();
+});
